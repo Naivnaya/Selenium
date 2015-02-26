@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Command line test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2,773">
+  <properties />
+  
+  
+            <testcase name="incorrectLoginTest" time="0,385" classname="com.dataart.selenium.tests.LoginTest" />
+                <testcase name="correctLoginTest" time="1,550" classname="com.dataart.selenium.tests.LoginTest" />
+                <testcase name="incorrectThenCorrectTest" time="0,838" classname="com.dataart.selenium.tests.LoginTest" />
+      
+</testsuite>
