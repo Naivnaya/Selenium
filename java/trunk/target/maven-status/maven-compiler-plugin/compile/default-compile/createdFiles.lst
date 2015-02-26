@@ -1,0 +1,10 @@
+com\dataart\selenium\framework\UnknownBrowserException.class
+com\dataart\selenium\framework\BasePage.class
+com\dataart\selenium\framework\BaseTest.class
+com\dataart\selenium\framework\Settings.class
+com\dataart\selenium\framework\Settings$1.class
+com\dataart\selenium\framework\Utils.class
+com\dataart\selenium\framework\UnknownPropertyException.class
+com\dataart\selenium\framework\BrowserType.class
+com\dataart\selenium\models\User.class
+com\dataart\selenium\models\UserBuilder.class

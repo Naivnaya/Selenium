@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Command line test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8,153">
+  <properties />
+  
+  
+            <testcase name="registration_dev_upload" time="1,860" classname="com.dataart.selenium.tests.RegistrationTest" />
+                <testcase name="registration_logout" time="2,272" classname="com.dataart.selenium.tests.RegistrationTest" />
+                <testcase name="registration" time="1,957" classname="com.dataart.selenium.tests.RegistrationTest" />
+                <testcase name="registration_user_upload" time="2,064" classname="com.dataart.selenium.tests.RegistrationTest" />
+      
+</testsuite>

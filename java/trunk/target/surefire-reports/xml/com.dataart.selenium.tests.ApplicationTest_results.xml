@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Command line test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="12,001">
+  <properties />
+  
+  
+            <testcase name="app_with_img" time="3,716" classname="com.dataart.selenium.tests.ApplicationTest" />
+                <testcase name="app_without_img" time="3,731" classname="com.dataart.selenium.tests.ApplicationTest" />
+                <testcase name="edit_app" time="2,893" classname="com.dataart.selenium.tests.ApplicationTest" />
+                <testcase name="parsing" time="1,661" classname="com.dataart.selenium.tests.ApplicationTest" />
+      
+</testsuite>
